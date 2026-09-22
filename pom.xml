@@ -58,9 +58,9 @@
 		</plugins>
 	</build>
   <scm>
-  	<url>https://bitbucket.org/ndsu-it/campus-groups-connector/</url>
-  	<connection>scm:git:ssh://git@bitbucket.org/ndsu-it/campus-groups-connector.git</connection>
-  	<developerConnection>scm:git:ssh://git@bitbucket.org/ndsu-it/campus-groups-connector.git</developerConnection>
+  	<url>https://github.com/NDSU-Information-Technology/campusgroups-connector</url>
+  	<connection>scm:git:ssh://git@github.com:NDSU-Information-Technology/campusgroups-connector.git</connection>
+  	<developerConnection>scm:git:ssh://git@github.com:NDSU-Information-Technology/campusgroups-connector.git</developerConnection>
   	<tag>campus-groups-connector-1.2.0</tag>
   </scm>
   <dependencies>
