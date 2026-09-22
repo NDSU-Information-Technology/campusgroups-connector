@@ -17,7 +17,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>edu.ndsu.eci.midpoint</groupId>
   <artifactId>campus-groups-connector</artifactId>
-  <version>1.2.0-SNAPSHOT</version>
+  <version>1.2.0</version>
   <parent>
   	<version>1.5.2.0</version>
   	<groupId>com.evolveum.polygon</groupId>
@@ -61,7 +61,7 @@
   	<url>https://github.com/NDSU-Information-Technology/campusgroups-connector</url>
   	<connection>scm:git:ssh://git@github.com/NDSU-Information-Technology/campusgroups-connector.git</connection>
   	<developerConnection>scm:git:ssh://git@github.com/NDSU-Information-Technology/campusgroups-connector.git</developerConnection>
-  	<tag>HEAD</tag>
+  	<tag>campus-groups-connector-1.2.0</tag>
   </scm>
   <dependencies>
   	<dependency>
