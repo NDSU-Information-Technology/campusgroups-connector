@@ -59,9 +59,9 @@
 	</build>
   <scm>
   	<url>https://github.com/NDSU-Information-Technology/campusgroups-connector</url>
-  	<connection>scm:git:ssh://git@github.com:NDSU-Information-Technology/campusgroups-connector.git</connection>
-  	<developerConnection>scm:git:ssh://git@github.com:NDSU-Information-Technology/campusgroups-connector.git</developerConnection>
-  	<tag>campus-groups-connector-1.2.0</tag>
+  	<connection>scm:git:ssh://git@github.com/NDSU-Information-Technology/campusgroups-connector.git</connection>
+  	<developerConnection>scm:git:ssh://git@github.com/NDSU-Information-Technology/campusgroups-connector.git</developerConnection>
+  	<tag>HEAD</tag>
   </scm>
   <dependencies>
   	<dependency>
